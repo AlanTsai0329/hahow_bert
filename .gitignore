@@ -1,0 +1,5 @@
+data/model_utils/tmunlp_1.6B_WB_50dim_2020v1.bin.gz
+lib/__pycache__/__init__.cpython-39.pyc
+lib/__pycache__/Basic_crawler_setting.cpython-39.pyc
+lib/__pycache__/Data_Processer.cpython-39.pyc
+lib/__pycache__/Home_Page_Crawler.cpython-39.pyc
